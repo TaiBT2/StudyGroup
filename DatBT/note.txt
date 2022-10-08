@@ -1,0 +1,4 @@
+folder for store code
+note:
+1. create folder html css js.
+2. set name file clearly
